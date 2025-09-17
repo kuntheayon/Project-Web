@@ -40,8 +40,8 @@ section {
 .btn {
     margin-top: 1rem;
     display: inline-block;
-    border: 0.2rem solid #10221b;
-    color: #10221b;
+    border: 0.2rem solid #ffff;
+    color: #ffff;
     cursor: pointer;
     background: none;
     font-size: 1.7rem;
@@ -245,7 +245,7 @@ section {
 
 .home .box .content span {
     font-size: 4rem;
-    color: #10221b;
+    color: #fff;
 }
 
 .home .box .content h3 {
@@ -257,7 +257,7 @@ section {
 
 .home .box .content p {
     line-height: 2;
-    color: #10221b;
+    color: #fff;
     font-size: 1.5rem;
     padding: 1rem 0;
 }
