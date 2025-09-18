@@ -40,8 +40,8 @@ section {
 .btn {
     margin-top: 1rem;
     display: inline-block;
-    border: 0.2rem solid #ffff;
-    color: #ffff;
+    border: 0.2rem solid #1c1414;
+    color: #0f0c0c;
     cursor: pointer;
     background: none;
     font-size: 1.7rem;
